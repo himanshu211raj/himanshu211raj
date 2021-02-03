@@ -1,5 +1,5 @@
 ## Hola, I'm HIMANSHU 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu211raj&label=Views&color=green&style=plastic" alt="himanshu211raj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu211raj&label=Views&color=blue&style=plastic" alt="himanshu211raj" /> </p>
 <a href="https://twitter.com/himanshu211raj">
   <img align="left" alt="Himanshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -18,9 +18,9 @@
 
 
 
-- 🔭 I’m currently working on Meals App.
-- 🌱 I’m currently trying automation stuff with python.
-- 🤔 I’m looking to work more on Javascript & Node.
+- 🔭 I’m currently working on Various projects related to flutter.
+- 🌱 I’m currently trying automation stuff with python & also flutter.
+- 🤔 I’m looking to work more on Javascript, Flutter & Node.
 - 📫 How to reach me: [Twitter - @himanshu211raj](https://twitter.com/himanshu211raj) , [Linkdein - @himanshu211raj](https://www.linkedin.com/in/himanshu211raj/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love punjabi music.
