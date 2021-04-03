@@ -18,8 +18,8 @@
 
 
 
-- 🔭 I’m currently working on Various projects related to flutter.
-- 🌱 I’m currently trying automation stuff with python & also flutter.
+- 🔭 I’m currently contributing to open - source.
+- 🌱 I’m currently trying various tech stacks related to app & web development.
 - 🤔 I’m looking to work more on Javascript, Flutter & Node.
 - 📫 How to reach me: [Twitter - @himanshu211raj](https://twitter.com/himanshu211raj) , [Linkdein - @himanshu211raj](https://www.linkedin.com/in/himanshu211raj/)
 - 😄 Pronouns: He/His
