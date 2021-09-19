@@ -3,13 +3,13 @@
 <a href="https://twitter.com/himanshu211raj">
   <img align="left" alt="Himanshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/himanshu211raj/">
+<a href="https://www.linkedin.com/in/himanshu-link/">
   <img align="left" alt="Himanshu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/himanshu211raj">
   <img align="left" alt="Himanshu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/himanshuraj.0">
+<a href="https://www.facebook.com/himansfb">
   <img align="left" alt="Himanshu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -21,7 +21,7 @@
 - 🔭 I’m currently contributing to open - source.
 - 🌱 I’m currently trying various tech stacks related to app & web development.
 - 🤔 I’m looking to work more on Javascript, Flutter & Node.
-- 📫 How to reach me: [Twitter - @himanshu211raj](https://twitter.com/himanshu211raj) , [Linkdein - @himanshu211raj](https://www.linkedin.com/in/himanshu211raj/)
+- 📫 How to reach me: [Twitter - @himanstwt](https://twitter.com/himanstwt) , [Linkdein - @himanshu-link](https://www.linkedin.com/in/himanshu-link/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love punjabi music.
 
