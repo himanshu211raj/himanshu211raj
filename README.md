@@ -25,7 +25,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love punjabi music.
 
-[![Twitter: Himanshu Raj](https://img.shields.io/twitter/follow/himanshu211raj?style=social)](https://twitter.com/himanstwt)
+[![Twitter: Himanshu Raj](https://img.shields.io/twitter/follow/himanstwt?style=social)](https://twitter.com/himanstwt)
 [![Linkedin: Himanshu Raj](https://img.shields.io/badge/himanshu211raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu211raj/)](https://www.linkedin.com/in/himanshu211raj/)
 [![GitHub Himanshu Raj](https://img.shields.io/github/followers/himanshu211raj?label=follow&style=social)](https://github.com/himanshu211raj)
 
