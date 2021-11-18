@@ -1,66 +1,45 @@
-## Hola, I'm HIMANSHU 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu211raj&label=Views&color=blue&style=plastic" alt="himanshu211raj" /> </p>
-<a href="https://twitter.com/himanshu211raj">
-  <img align="left" alt="Himanshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/himanshu-link/">
-  <img align="left" alt="Himanshu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/himanshu211raj">
-  <img align="left" alt="Himanshu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/himansfb">
-  <img align="left" alt="Himanshu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+## 👋 Hey, I'm Himanshu 
 
-<br/>
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu211raj&label=Views&color=red" alt="himanshu211raj" /> </p>
 
+<a  href="https://www.himanshuraj.in/"><img src="https://img.shields.io/badge/himanshuraj.in-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<a href="mailto: himanshu211raj@gmail.com"><img src="https://img.shields.io/badge/-himanshu211raj%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/himanshu-link/"><img src="https://img.shields.io/badge/himanshu-link-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://github.com/himanshu211raj"><img src="https://img.shields.io/badge/himanshu211raj-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://twitter.com/himanstwt"><img src="https://img.shields.io/badge/himanstwt-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
 
-
-- 🔭 I’m currently contributing to open - source.
-- 🌱 I’m currently trying various tech stacks related to app & web development.
-- 🤔 I’m looking to work more on Javascript, Flutter & Node.
+- 🔭 I’m currently working on MERN Stack and Blockchain.
+- ⚡ Co Founder of Findkrr (Platform to find nearby street vendors) and [Devlance](https://devlance.in) (We provide digital solutions to startups).
 - 📫 How to reach me: [Twitter - @himanstwt](https://twitter.com/himanstwt) , [Linkdein - @himanshu-link](https://www.linkedin.com/in/himanshu-link/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love punjabi music.
-
-[![Twitter: Himanshu Raj](https://img.shields.io/twitter/follow/himanstwt?style=social)](https://twitter.com/himanstwt)
-[![Linkedin: Himanshu Raj](https://img.shields.io/badge/himanshu211raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu211raj/)](https://www.linkedin.com/in/himanshu211raj/)
-[![GitHub Himanshu Raj](https://img.shields.io/github/followers/himanshu211raj?label=follow&style=social)](https://github.com/himanshu211raj)
+- 👋  Fun fact: I love hiphop music.
 
 
-**Languages and Tools:**  
+## ⚡ Technologies
 
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-red?style=flat-square&logo=dart)
+![Solidity](https://img.shields.io/badge/-solidity-E34A86?style=flat-square&logo=solidity)
+![Ethereum](https://img.shields.io/badge/-ethereum-green?style=flat-square&logo=ethereum)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-pink?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
----
 
-<a href="https://github.com/himanshu211raj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu211raj&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/himanshu211raj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu211raj&show_icons=true&theme=dark&line_height=27" alt="Himanshu's github stats"/>
-</a>
-<a href="https://github.com/himanshu211raj/personal_expense_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu211raj&repo=personal_expense_app&theme=dark" />
-
-</a>
-<a href="https://github.com/himanshu211raj/meals_app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu211raj&repo=meals_app&theme=dark" />
+## 🌼 GitHub Highlights:
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=himanshu211raj&theme=gruvbox_duo"/>
 </a>
 
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+## 🔥 Quick stats about me:
 
-</div>
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=himanshu211raj&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Himanshu's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu211raj&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+<br></br>
+<p align="center">
+Show some ❤️ by starring some of the repositories!
+</p>
