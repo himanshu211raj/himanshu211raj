@@ -5,8 +5,8 @@
 <a  href="https://www.himanshuraj.com/"><img src="https://img.shields.io/badge/himanshuraj.com-161B22.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 <a href="mailto: himanshu211raj@gmail.com"><img src="https://img.shields.io/badge/-himanshu211raj%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/himanshu-link/"><img src="https://img.shields.io/badge/himanshu-link-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://github.com/himanshu211raj"><img src="https://img.shields.io/badge/himanshu211raj-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://twitter.com/himanstwt"><img src="https://img.shields.io/badge/himanstwt-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
 
-- 🔭 I’m currently working as Developer Relations and exploring the domain of Blockchain by deep dive.
-- ⚡ Co - Founder of [Buildorz](https://buildorz.com), [Devlance Pvt Ltd](https://devlance.in), Findkrr (Platform to find nearby street vendors).
+- 🔭 I Founded multiple service-based startups and exploring Blockchain.
+- ⚡ Founder [Chainly Studio](https://chainly.studio), [Devlance Pvt Ltd](https://devlance.in).
 - 📫 How to reach me: [Twitter - @himanstwt](https://twitter.com/himanstwt) , [Linkdein - @himanshu-link](https://www.linkedin.com/in/himanshu-link/)
 - 👋  Fun fact: I love hiphop music.
 
